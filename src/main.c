@@ -10,10 +10,9 @@ uint32_t num_samples = 3;
 
 
 int generateRandomNumber() {
-  int temp = randNum;
   srand(time(NULL));
   int n = rand() % 7;
-  while(n == 0 && n != temp) {
+  while(n == 0 || n == randNum) {
     n = rand() % 7;
   }
   return n;
