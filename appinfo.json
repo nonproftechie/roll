@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nesher181@gmail.com",
+    "longName": "Roll",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Roll",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "72355de2-ad04-49de-a9e5-46065bdcb04a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
