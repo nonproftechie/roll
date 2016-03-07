@@ -4,6 +4,7 @@
         ""
     ],
     "companyName": "nesher181@gmail.com",
+    "enableMultiJS": false,
     "longName": "Roll",
     "projectType": "native",
     "resources": {
@@ -12,6 +13,7 @@
     "sdkVersion": "3",
     "shortName": "Roll",
     "targetPlatforms": [
+        "aplite",
         "basalt",
         "chalk"
     ],
