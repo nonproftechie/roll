@@ -1,5 +1,5 @@
 # roll
-[![Available on the Pebble App Store](http://pblweb.com/badge/567050ba2e7c0c788700003d/colour/size)](https://apps.getpebble.com/en_US/application/567050ba2e7c0c788700003d)  
+[![Available on the Pebble App Store](http://pblweb.com/badge/567050ba2e7c0c788700003d/colour/size)](https://apps.getpebble.com/en_US/application/567050ba2e7c0c788700003d) [![Build Status](https://travis-ci.org/nonproftechie/roll.svg?branch=master)](https://travis-ci.org/nonproftechie/roll)  
 Use your Pebble Time as a die roller
 
 ## Usage
