@@ -1,4 +1,5 @@
 # roll
+![Available on the Pebble App Store](http://pblweb.com/badge/567050ba2e7c0c788700003d/colour/size)  
 Use your Pebble Time as a die roller
 
 ## Usage
