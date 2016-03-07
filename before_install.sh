@@ -13,7 +13,7 @@ if [ ! -d $HOME/pebble-dev/${PEBBLE_SDK} ]; then
   wget http://assets.getpebble.com.s3-website-us-east-1.amazonaws.com/sdk/arm-cs-tools-ubuntu-universal.tar.gz
 
   # Extract the SDK
-  tar -jxf ~/Downloads/${PEBBLE_SDK}.tar.bz2 -C ~/pebble-dev/
+  tar -jxf ${PEBBLE_SDK}.tar.bz2 -C ~/pebble-dev/
   # Extract the toolchain
   tar zxf arm-cs-tools-ubuntu-universal.tar.gz -C ~/pebble-dev/${PEBBLE_SDK}
 
