@@ -9,7 +9,7 @@ touch ~/pebble-dev/NO_TRACKING
 
 # Get the Pebble SDK and toolchain
 if [ ! -d $HOME/pebble-dev/${PEBBLE_SDK} ]; then
-  wget https://sdk.getpebble.com/download -O https://s3.amazonaws.com/assets.getpebble.com/pebble-tool/${PEBBLE_SDK}.tar.bz2
+  wget https://s3.amazonaws.com/assets.getpebble.com/pebble-tool/${PEBBLE_SDK}.tar.bz2
   wget http://assets.getpebble.com.s3-website-us-east-1.amazonaws.com/sdk/arm-cs-tools-ubuntu-universal.tar.gz
 
   # Extract the SDK
