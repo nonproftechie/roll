@@ -5,6 +5,7 @@ echo 'Installing Pebble SDK and its Dependencies...'
 
 cd ~
 mkdir -p ~/pebble-dev
+mkdir -p ~/.pebble-sdk
 touch ~/.pebble-sdk/NO_TRACKING
 
 # Get the Pebble SDK and toolchain
